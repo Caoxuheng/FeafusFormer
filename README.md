@@ -10,9 +10,9 @@ The paper has not been completed, so stay tuned!
 # Requirements
 ## Environment
 `Python3.8`  
-'torch 1.12',`torchvision 0.13.0`  
-'Numpy','Scipy'
-Also, we will create a Paddle version that implements uMLFT in AI Studion online for free!
+`torch 1.12`,`torchvision 0.13.0`  
+`Numpy`,`Scipy`  
+*Also, we will create a Paddle version that implements uMLFT in AI Studion online for free!*
 ## Datasets
 [`CAVE dataset`](https://www1.cs.columbia.edu/CAVE/databases/multispectral/), 
  [`Preprocessed CAVE dataset`](https://aistudio.baidu.com/aistudio/datasetdetail/147509).
