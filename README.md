@@ -1,5 +1,5 @@
-# uMLFT: Unsuperviesed multi-level feature fusion transformer for blind hyperspectral and multispectral image fusion (*Pending*)
-This is a transformer-based super-resolution algorithm that fuse hyperspectral and multispectral image in a unsupervised manner in coping with unknown degradation in spectral and spatial domain. The uMLFT fully exploits the long-range and multi-level feature of the both MSI and HSI. The HR texture is transfered to the LR-HSI by fusing the residual texture information of different level feature extracted from HR-RGB. For an HSI with size of 16x16x31, the uMLFT can achieve 32x spatial improvement with very high accuracy in 240 seconds. The quantitative results outperform exisiting SOTA algorithms.  
+# Unsuperviesed feature transformer for blind hyperspectral and RGB image fusion (*Pending*)
+This is a transformer-based super-resolution algorithm that fuse hyperspectral and multispectral image in a unsupervised manner in coping with unknown degradation in spectral and spatial domain. The uFT fully exploits the long-range information and multi-level feature of the both MSI and HSI. The HR texture is transfered to the LR-HSI by fusing the residual texture information of different level feature extracted from HR-RGB. For an HSI with size of 16x16x31, the uFT can achieve 32x spatial improvement with very high accuracy incoping with blind degradations. The quantitative results outperform exisiting SOTA algorithms.  
 ***The paper has not been completed, so stay tuned!***
 # Flowchart
 **None**
