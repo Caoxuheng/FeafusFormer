@@ -4,7 +4,7 @@ This is a transformer-based super-resolution algorithm that fuse hyperspectral a
 # Flowchart
 **None**
 # Result presentation
-The reconstructed results are uploaded to here.
+The reconstructed results have been uploaded to [`here`](https://aistudio.baidu.com/aistudio/datasetdetail/173277).
 # Guidance
 **None**
 # Requirements
