@@ -1,4 +1,4 @@
-# Unsupervised Feature Transformer with Adaptive Degradation Representation for Blind Hyperspectral and RGB image Fusion (*Pending*)
+# Unsupervised Feature Fusion Transformer for Blind Hyperspectral and RGB image Fusion (*Pending*)
 This is a transformer-based super-resolution algorithm that fuse hyperspectral and multispectral image in a unsupervised manner in coping with unknown degradation in spectral and spatial domain. The uFT fully exploits the long-range information and multi-level feature of the both MSI and HSI. The HR texture is transfered to the LR-HSI by fusing the residual texture information of different level feature extracted from HR-RGB. For an HSI with size of 16x16x31, the uFT can achieve 32x spatial improvement with very high accuracy incoping with blind degradations. The quantitative results outperform exisiting SOTA algorithms.  
 ***The paper has not been completed, so stay tuned!***  
 FeafusFormer performs strong ablity in blind fusion task. The performance comparisons are tested on CAVE data set  with 32x scale factor. 
@@ -14,7 +14,7 @@ The reconstructed results can be downloaded from [`here`](https://aistudio.baidu
 `Python3.8`  
 `torch 1.12`,`torchvision 0.13.0`  
 `Numpy`,`Scipy`  
-*Also, we will create a Paddle version that implements uMLFT in AI Studio online for free!*
+*Also, we will create a Paddle version that implements FeafusFormer in AI Studio online for free!*
 ## Datasets
 [`CAVE dataset`](https://www1.cs.columbia.edu/CAVE/databases/multispectral/), 
  [`Preprocessed CAVE dataset`](https://aistudio.baidu.com/aistudio/datasetdetail/147509).
