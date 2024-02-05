@@ -19,3 +19,16 @@ The reconstructed results on CAVE can be downloaded from [`here`](https://aistud
 # Note
 For any questions, feel free to email me at caoxuheng@tongji.edu.com.  
 If you find our work useful in your research, please cite our paper ^.^
+
+# Citation
+```python
+@ARTICLE{10415455,
+  author={Cao, Xuheng and Lian, Yusheng and Wang, Kaixuan and Ma, Chao and Xu, Xianqing},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Unsupervised Hybrid Network of Transformer and CNN for Blind Hyperspectral and Multispectral Image Fusion}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Degradation;Transformers;Spatial resolution;Imaging;Tensors;Spectral analysis;Hyperspectral imaging;Blind fusion;degradation representation;feature fusion;super-resolution;unsupervised transformer},
+  doi={10.1109/TGRS.2024.3359232}}
