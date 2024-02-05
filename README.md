@@ -5,7 +5,7 @@ This is a transformer-based super-resolution algorithm that fuse hyperspectral a
 # Result presentation  
 Nonblind fusion results on Pavia, Chikusei and Xiongan datasets.  
 ![Result](https://github.com/Caoxuheng/imgs/blob/main/HIFtool/result_feafusformer.png)
-The reconstructed results can be downloaded from [`here`](https://aistudio.baidu.com/aistudio/datasetdetail/173277).
+The reconstructed results on CAVE can be downloaded from [`here`](https://aistudio.baidu.com/aistudio/datasetdetail/173277).
 # Guidance
 **None**
 # Requirements
