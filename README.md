@@ -9,7 +9,9 @@ Nonblind fusion results on Pavia, Chikusei and Xiongan datasets.
 ![Result](https://github.com/Caoxuheng/imgs/blob/main/HIFtool/result_feafusformer.png)
 The reconstructed results on CAVE can be downloaded from [`here`](https://aistudio.baidu.com/aistudio/datasetdetail/173277).
 # Guidance
-**None**
+First, you need to download the required dataset. Once downloaded, place the dataset in the Dataset folder located within the root directory of the project.  
+Next, configure the parameters in the config.py file to suit your needs. By default, the code is set up to restore HSI (Hyperspectral Imaging) images of size [512, 512, 31]. You can adjust these values or any other relevant parameters as per your requirements.  
+Finally, to run the main script uHNTC.py, open a terminal or command prompt, navigate to the root directory of the project, and execute the Python script. Ensure you have the necessary Python environment and dependencies installed.  
 # Requirements
 ## Environment
 `Python3.8`  
